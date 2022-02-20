@@ -1,0 +1,8 @@
+D:\GitteHubbe\Test_Task_Nedra\Test task with triangle of nums\Test task with triangle of nums\bin\Debug\Test task with triangle of nums.exe.config
+D:\GitteHubbe\Test_Task_Nedra\Test task with triangle of nums\Test task with triangle of nums\bin\Debug\Test task with triangle of nums.exe
+D:\GitteHubbe\Test_Task_Nedra\Test task with triangle of nums\Test task with triangle of nums\bin\Debug\Test task with triangle of nums.pdb
+D:\GitteHubbe\Test_Task_Nedra\Test task with triangle of nums\Test task with triangle of nums\obj\Debug\Test task with triangle of nums.csproj.AssemblyReference.cache
+D:\GitteHubbe\Test_Task_Nedra\Test task with triangle of nums\Test task with triangle of nums\obj\Debug\Test task with triangle of nums.csproj.SuggestedBindingRedirects.cache
+D:\GitteHubbe\Test_Task_Nedra\Test task with triangle of nums\Test task with triangle of nums\obj\Debug\Test task with triangle of nums.csproj.CoreCompileInputs.cache
+D:\GitteHubbe\Test_Task_Nedra\Test task with triangle of nums\Test task with triangle of nums\obj\Debug\Test task with triangle of nums.exe
+D:\GitteHubbe\Test_Task_Nedra\Test task with triangle of nums\Test task with triangle of nums\obj\Debug\Test task with triangle of nums.pdb
